@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "71446c15-b8e2-4c1a-bae8-0689c4cbe7a6",
+      "name": "Muhammad Annuar Alhadii",
+      "email": "annuaralhadi04@gmail.com"
+    },
+    {
+      "id": "b9b93a08-185e-452e-b261-d51cfdf8ef81",
+      "name": "Muhammad Adam Al Hakim",
+      "email": "adamalhakim08@gmail.com"
+    },
+    {
+      "id": "99a42bf9-ab93-4783-b72f-0dcdeedabac4",
+      "name": "Nurul Jannah",
+      "email": "nuruljannah@gmail.com"
+    },
+    {
+      "id": "b01c5cbe-dc79-4740-a876-5b6d3d92d6b5",
+      "name": "Nurul Najibah",
+      "email": "nurulnajibah@gmail.com"
+    },
+    {
+      "id": "ba60ed3f-490f-46d6-bc87-b2ccd7274602",
+      "name": "Zalina Mohdd",
+      "email": "zalinamohd@gmail.com"
+    }
+  ]
+}
